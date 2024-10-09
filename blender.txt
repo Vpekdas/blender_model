@@ -1,0 +1,36 @@
+shift + a = new object
+shift + middle mouse = move in same axis
+ctrl + r = loop cut
+alt + z = transparency
+s = size
+g = grab
+w = change selector form
+f = create new face
+
+
+1 = vertex select
+2 = edge select
+3 = face select =--
+ctrl + b = smooth angle
+while (2) + scroll up / down = more smooth
+alt + left mouse = select all edge
+m = merge
+j = join
+k = Knife (create edge)
+shift + alt = select all faces, edges and vertices
+ctrl + RMB = create vertices
+shift + (x or y or z) = modify all axis except one pressed
+shift + c = reset cursor to origin
+shift + RL = modify the cursor position
+ctrl + shift with edge selected = select all faces between edges
+ctrl + shift + z = undo the undo
+ctrl + e = remove sharp edges and other
+u = unwrap, mark seams and other
+ctrl + a = apply location etc
+
+
+privilege shade smooth by angle
+
+If you want to make a hole in a form, select the form in which one you want make the hole
+(need a form that you want to apply) then select boolean modifier.
+
